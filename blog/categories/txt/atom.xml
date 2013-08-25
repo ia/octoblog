@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[cat /dev/brain/thoughts]]></title>
-  <link href="http://ia.github.io/octoblog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: txt | cat /dev/brain/thoughts]]></title>
+  <link href="http://ia.github.io/octoblog/blog/categories/txt/atom.xml" rel="self"/>
   <link href="http://ia.github.io/octoblog/"/>
   <updated>2013-08-26T00:48:06+04:00</updated>
   <id>http://ia.github.io/octoblog/</id>
